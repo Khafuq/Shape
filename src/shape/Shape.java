@@ -17,7 +17,7 @@ public class Shape {
         System.out.println("Area of Rectangle = " + r.getArea()); 
         
         // Write code to print out perimeter of rectangle
-        System.out.println("Primeter of Rectagle = " + r.getPrimeter());
+        System.out.println("Primeter of Rectangle = " + r.getPerimeter());
     }
     
 }
