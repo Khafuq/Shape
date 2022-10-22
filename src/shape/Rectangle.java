@@ -24,5 +24,9 @@ public class Rectangle {
     }
     // write code to calculate perimeter here
     // getPerimeter()
+
+    String getPrimeter() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
 }
