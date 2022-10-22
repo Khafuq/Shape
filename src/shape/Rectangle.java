@@ -18,15 +18,11 @@ public class Rectangle {
         return length*breadth; // write code to calculate area here
     } 
     
-    //getperimeter()
+    // write code to calculate perimeter here
+    // getPerimeter()
     public int getPerimeter(){
         return 2*(length+breadth);
     }
-    // write code to calculate perimeter here
-    // getPerimeter()
 
-    String getPrimeter() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
     
 }
